@@ -1,6 +1,6 @@
 # foxyjs
 
-![](https://darkdragonblade.github.io/foxyjs-svgeditor/static/demo.png)
+![](https://oldboylys.github.io/svgEditor/static/demo.png)
 
 A **simple and powerful Javascript HTML5 SVG library**.
 
@@ -72,6 +72,6 @@ stage.toggleTool("transform-tool");
 ```
 
 [mdn_es6]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
-[onlineDemo]: https://darkdragonblade.github.io/foxyjs-svgeditor/demo
-[document]: https://darkdragonblade.github.io/foxyjs-svgeditor/document
-[website]: https://darkdragonblade.github.io/foxyjs-website
+[onlineDemo]: https://oldboylys.github.io/svgEditor/demo
+[document]: https://oldboylys.github.io/svgEditor/document
+[website]: https://oldboylys.github.io/foxyjs-website

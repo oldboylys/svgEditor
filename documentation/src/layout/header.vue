@@ -7,8 +7,8 @@
 
     <div class="flex flex-align-center" style="gap: 12px">
       <input class="nav-input" v-model="searchQuery" />
-      <a href="https://darkdragonblade.github.io/foxyjs-svgeditor/demo/" target="_blank" class="nav-item">{{ t('message.demo') }}</a>
-      <a href="https://github.com/darkdragonblade/foxyjs-svgeditor" target="_blank" class="nav-item">Github</a>
+      <a href="https://oldboylys.github.io/svgEditor/demo/" target="_blank" class="nav-item">{{ t('message.demo') }}</a>
+      <a href="https://github.com/oldboylys/svgEditor" target="_blank" class="nav-item">Github</a>
 
       <span class="dropdown-container">
         <span class="nav-item">Languages</span>
